@@ -16,7 +16,7 @@ These solutions were adapted from the [freeCodeCamp article on NeetCode 150](htt
 
 | # | Problem | Solution | Video |
 |---|---------|----------|-------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/python/0001_two_sum/0001_two_sum.py) | [Video](https://www.youtube.com/watch?v=exgQqDsExaY) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/python/0002_add_two_numbers/0002_add_two_numbers.py) | [Video](https://www.youtube.com/watch?v=exgQqDsExaY) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](/python/0049_group_anagrams/0049_group_anagrams.py) | [Video](https://www.youtube.com/watch?v=bA9ZgQ9glvk) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](/python/0347_top_k_frequent_elements/0347_top_k_frequent_elements.py) | [Video](https://www.youtube.com/watch?v=QubWUx59QCk) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](/python/0242_valid_anagram/0242_valid_anagram.py) | [Video](https://www.youtube.com/watch?v=9UtInBqnCgA) |
@@ -26,7 +26,7 @@ These solutions were adapted from the [freeCodeCamp article on NeetCode 150](htt
 
 | # | Problem | Solution | Video |
 |---|---------|----------|-------|
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](/python/0015_3sum/0015_3sum.py) | [Video](https://www.youtube.com/watch?v=WtloSzFYvho) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](/python/0015_3_sum/0015_3_sum.py) | [Video](https://www.youtube.com/watch?v=WtloSzFYvho) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](/python/0125_valid_palindrome/0125_valid_palindrome.py) | [Video](https://www.youtube.com/watch?v=DGd62U0NP_o) |
 
 ### Sliding Window 🪟
@@ -51,7 +51,7 @@ These solutions were adapted from the [freeCodeCamp article on NeetCode 150](htt
 | # | Problem | Solution | Video |
 |---|---------|----------|-------|
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](/python/0033_search_in_rotated_sorted_array/0033_search_in_rotated_sorted_array.py) | [Video](https://www.youtube.com/watch?v=sE_4DzVc71w) |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](/python/0153_find_minimum_in_rotated_sorted_array/0153_find_minimum_in_rotated_sorted_array.py) | [Video](https://www.youtube.com/watch?v=Dr69TSfv9JI) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](/python/0153_minimum_in_rotated_sorted_array/0153_minimum_in_rotated_sorted_array.py) | [Video](https://www.youtube.com/watch?v=Dr69TSfv9JI) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](/python/0875_koko_eating_bananas/0875_koko_eating_bananas.py) | [Video](https://www.youtube.com/watch?v=3m3QZeiH3KI) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](/python/0074_search_a_2d_matrix/0074_search_a_2d_matrix.py) | [Video](https://www.youtube.com/watch?v=FOa55B9Ikfg) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](/python/0704_binary_search/0704_binary_search.py) | [Video](https://www.youtube.com/watch?v=s4DPM8ct1pI) |
@@ -76,7 +76,7 @@ These solutions were adapted from the [freeCodeCamp article on NeetCode 150](htt
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](/python/0098_validate_binary_search_tree/0098_validate_binary_search_tree.py) | [Video](https://www.youtube.com/watch?v=QaCMLopSwWI) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](/python/0110_balanced_binary_tree/0110_balanced_binary_tree.py) | [Video](https://www.youtube.com/watch?v=gu5rAEvm9Fk) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](/python/0199_binary_tree_right_side_view/0199_binary_tree_right_side_view.py) | [Video](https://www.youtube.com/watch?v=4lMY-g0Afg8) |
-| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](/python/0208_implement_trie/0208_implement_trie.py) | [Video](https://www.youtube.com/watch?v=nLTqtBLhPbQ) |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](/python/0208_implement_trie_(prefix_tree)/0208_implement_trie_(prefix_tree).py) | [Video](https://www.youtube.com/watch?v=nLTqtBLhPbQ) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](/python/0235_lowest_common_ancestor_of_a_binary_search_tree/0235_lowest_common_ancestor_of_a_binary_search_tree.py) | [Video](https://www.youtube.com/watch?v=1HUmPsyFb9U) |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](/python/0297_serialize_and_deserialize_binary_tree/0297_serialize_and_deserialize_binary_tree.py) | [Video](https://www.youtube.com/watch?v=vqbpTOU-LS4) |
 | 366 | [Find Leaves of Binary Tree](https://leetcode.ca/all/366.html) | [Solution](/python/0366_find_leaves_of_binary_tree/0366_find_leaves_of_binary_tree.py) | [Video](https://www.youtube.com/watch?v=VZCWLZ5PvKM) |
@@ -149,7 +149,7 @@ These solutions were adapted from the [freeCodeCamp article on NeetCode 150](htt
 | # | Problem | Solution | Video |
 |---|---------|----------|-------|
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](/python/0031_next_permutation/0031_next_permutation.py) | [Video](https://www.youtube.com/watch?v=oc3OOtGmH6U) |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](/python/0050_pow_x_n/0050_pow_x_n.py) | [Video](https://www.youtube.com/watch?v=OUKFuUkb4p0) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](/python/0050_pow(x,_n)/0050_pow(x,_n).py) | [Video](https://www.youtube.com/watch?v=OUKFuUkb4p0) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](/python/0066_plus_one/0066_plus_one.py) | [Video](https://www.youtube.com/watch?v=1KIcZqCXNHU) |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Solution](/python/0068_text_justification/0068_text_justification.py) | [Video](https://www.youtube.com/watch?v=Pf_1Ox9ud_w) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](/python/0073_set_matrix_zeroes/0073_set_matrix_zeroes.py) | [Video](https://www.youtube.com/watch?v=JwQvyZcwcP4) |
@@ -169,7 +169,7 @@ These solutions were adapted from the [freeCodeCamp article on NeetCode 150](htt
 |---|---------|----------|-------|
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](/python/0056_merge_intervals/0056_merge_intervals.py) | [Video](https://www.youtube.com/watch?v=0l592UweNoI) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](/python/0057_insert_interval/0057_insert_interval.py) | [Video](https://www.youtube.com/watch?v=EjndmC_0seY) |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](/python/0435_non___overlapping_intervals/0435_non___overlapping_intervals.py) | [Video](https://www.youtube.com/watch?v=k4KhQ34J_V8) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](/python/0435_non_overlapping_intervals/0435_non_overlapping_intervals.py) | [Video](https://www.youtube.com/watch?v=k4KhQ34J_V8) |
 
 ### Advanced Data Structures 🧮
 
