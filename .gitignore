@@ -178,3 +178,4 @@ rename_python_files.py
 replicate_structure.py
 check_valid_python_code.py
 .vscode/settings.json
+verify_paths.py
